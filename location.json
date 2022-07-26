@@ -1,0 +1,34 @@
+[{
+            "name": "Registan",
+            "cityName": "Samarkand",
+            "coordinates": {
+                "latitude" : 39.65458, 
+                "longitude": 66.97577
+
+            },
+            "description": "Registan was considered the city centre of Samarkand back in good old times",
+            "imageURLs": [
+                "https://images.pexels.com/photos/5964318/pexels-photo-5964318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "https://images.unsplash.com/photo-1557841089-d82280fcc341?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2065&q=80",
+                "https://images.unsplash.com/photo-1553412879-9086a81d9c77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+                "https://images.pexels.com/photos/8226316/pexels-photo-8226316.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            ],
+            "link": "https://en.wikipedia.org/wiki/Registan"
+},
+{
+            "name": "Chorsu",
+            "cityName": "Tashkent",
+            "coordinates": {
+                "latitude" : 41.32618, 
+                "longitude": 69.23498
+            },
+            "description": "Chorsu is one of the oldest bazaars in Central Asia, which is located in Tashkent",
+            "imageURLs": [
+                "https://images.pexels.com/photos/9375973/pexels-photo-9375973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "https://i.pinimg.com/564x/07/44/e7/0744e78e903022d47a4ac6e6f12e60cb.jpg",
+                "https://i.pinimg.com/originals/27/66/4c/27664cb69d4f141263412f829b9b2afa.jpg"
+
+            ],
+            "link": "https://en.wikipedia.org/wiki/Chorsu_Bazaar"
+}
+]
